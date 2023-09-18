@@ -1,0 +1,59 @@
+body{
+
+    background-color: #46458C;
+}
+
+.container
+{
+    text-align: center;
+    padding : 50px;
+    
+    font-family: 'Pacifico', cursive;
+    
+}
+
+.heading
+{
+    font-size: 5rem;
+    color: #E8A9A9;
+}
+
+.player
+{
+    text-align: center;
+}
+
+.player1
+{
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  margin-left: 40%;
+  color: #F4D3D3;
+}
+
+.player2
+{
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;  
+  margin-right: 40%;
+  color: #F4D3D3;
+}
+
+.dice1
+{
+    margin-left: 250px;
+}
+
+.dice2
+{
+    margin-right: 250px;
+}
+
+.footer
+{
+    color: #F4D3D3;
+    padding-top: 60px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.4rem;
+}
